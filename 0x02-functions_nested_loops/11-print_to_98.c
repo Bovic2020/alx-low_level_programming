@@ -2,10 +2,11 @@
 #include "6-abs.c"
 #include <stdio.h>
 /**
- *main- print_to_98
- *Return: Always 0
+ * main - check the code
+ *
+ * Return: Always 0.
  */
-
+int main(void)
 void print_to_98(int n)
 {
 	int i;
