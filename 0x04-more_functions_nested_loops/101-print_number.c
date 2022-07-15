@@ -20,7 +20,7 @@ void print_number(int n)
 		_putchar('-');
 		n = n + 1;
 		n = -n;
-main		x = n;
+main		ix = n;
 		x += 1;
 		y += 1;
 	}
